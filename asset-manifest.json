@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webinar-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/webinar-react/static/js/main.5200ab9b.chunk.js",
+    "main.js.map": "/webinar-react/static/js/main.5200ab9b.chunk.js.map",
+    "runtime-main.js": "/webinar-react/static/js/runtime-main.e50b51a4.js",
+    "runtime-main.js.map": "/webinar-react/static/js/runtime-main.e50b51a4.js.map",
+    "static/js/2.c15c758e.chunk.js": "/webinar-react/static/js/2.c15c758e.chunk.js",
+    "static/js/2.c15c758e.chunk.js.map": "/webinar-react/static/js/2.c15c758e.chunk.js.map",
+    "index.html": "/webinar-react/index.html",
+    "precache-manifest.fa226f2321c91609e3497d7a12c13eb3.js": "/webinar-react/precache-manifest.fa226f2321c91609e3497d7a12c13eb3.js",
+    "service-worker.js": "/webinar-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/webinar-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c15c758e.chunk.js.LICENSE.txt": "/webinar-react/static/js/2.c15c758e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/webinar-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e50b51a4.js",
+    "static/js/2.c15c758e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5200ab9b.chunk.js"
+  ]
+}
